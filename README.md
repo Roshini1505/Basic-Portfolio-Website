@@ -1,4 +1,4 @@
-# Roshini S's Elegant Portfolio
+# Roshini S's Portfolio
 
 ## Description
 
