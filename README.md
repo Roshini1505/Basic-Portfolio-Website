@@ -2,7 +2,7 @@
 
 ## Description
 
-An elegant and stylish portfolio website for Roshini S. This site showcases her web development and design projects with a clean, minimalist design.
+An elegant and stylish portfolio website for Roshini S. This site showcases my projects and contact information with a clean, minimalist design.
 
 ## Features
 
